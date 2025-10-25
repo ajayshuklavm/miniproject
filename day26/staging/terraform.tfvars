@@ -1,0 +1,6 @@
+rgname                 = "stage-piyush-rg"
+service_principal_name = "stage-piyush-spn"
+keyvault_name          = "stage-piyush-kv-101"
+SUB_ID = "f57c70a8-e624-4a76-ae21-6ce821294705"
+node_pool_name = "stagenp"
+cluster_name = "stage-piyush-cluster"

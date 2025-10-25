@@ -1,0 +1,6 @@
+rgname                 = "dev-ajay-rg"
+service_principal_name = "dev-ajay-spn"
+keyvault_name          = "dev-ajay-kv-101"
+SUB_ID = "f57c70a8-e624-4a76-ae21-6ce821294705"
+cluster_name = "dev-ajay-cluster"
+node_pool_name = "dev-ajay-np"
